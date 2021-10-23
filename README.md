@@ -1,4 +1,4 @@
-### Hey I'm @Chitandaa 👋
+### Hey I'm Chitanda 👋
 ### About me:
 
 ・ 🌱 I'm currently learning about programming.
