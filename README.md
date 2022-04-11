@@ -1,6 +1,9 @@
 <h3 align="left">Hi im Chitanda 👋</h3>
 <h5 align="left">・ 🌱 I'm currently learning about programming.</h5>
-<h5 align="left">・ 📪 My contact : Discord Chitanda#2468</h5>
+<h5 align="left">・ 📪 My contact :</h5>
+
+<a href = "https://discordapp.com/users/577495778747088896/"><img src = "https://imgur.com/RSEvkDl.png" height= 15px width = 15px> Discord </a>
+
 <a href="https://discordapp.com/users/577495778747088896/" rel=notfollow> </a>
 
 <h5 align="left">This is the programming language that I often use :</h5>
