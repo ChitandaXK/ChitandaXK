@@ -11,7 +11,7 @@
 
 <div align="center">
 
-[![Chitanda GitHub stats](https://github-readme-stats.vercel.app/api?username=chitandaa&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Chitanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitandaa&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
