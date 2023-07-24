@@ -5,13 +5,13 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chitandaa&langs_count=8&show_icons=true&title_color=4fadff&icon_color=f0c91d&text_color=daf7dc&bg_color=050000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chitandaa&langs_count=8&show_icons=true&title_color=4fadff&icon_color=f0c91d&text_color=daf7dc&bg_color=050000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 <div align="center">
 
-[![Chitanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitandaa&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Chitanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chitandaa&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
