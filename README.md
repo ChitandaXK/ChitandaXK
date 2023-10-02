@@ -12,12 +12,6 @@
 
 </div>
 
-<div align="center">
-
-[![Chitanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chitandaa&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
 <h3 align="left">・ 📪 My contact :</h3>
 
 <a href = "https://discordapp.com/users/577495778747088896/"><img src = "https://imgur.com/RSEvkDl.png" height= 30px width = 30px></a>
