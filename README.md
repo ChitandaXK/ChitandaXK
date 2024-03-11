@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Chitanda 👋</h1>
 
-<img src="[https://cdn.discordapp.com/attachments/757214843668529233/757286654561222667/echidna-1920-1004243.jpg](https://cdn.discordapp.com/attachments/757214843668529233/757286654561222667/echidna-1920-1004243.jpg?ex=66005da8&is=65ede8a8&hm=877e7cfef74236f5a2a5641e77539d9f2daefdfaead66c3a6592c1423dfc78fc&)"> </img>
+<img src="https://cdn.discordapp.com/attachments/757214843668529233/757286654561222667/echidna-1920-1004243.jpg?ex=66005da8&is=65ede8a8&hm=877e7cfef74236f5a2a5641e77539d9f2daefdfaead66c3a6592c1423dfc78fc&"> </img>
 
 <h3 align="center">A mysterious person that like to develop discord bots</h3>
 
