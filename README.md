@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Chitanda 👋</h1>
 
-<img src="https://cdn.discordapp.com/attachments/757214843668529233/757286654561222667/echidna-1920-1004243.jpg?ex=664b8328&is=664a31a8&hm=f3efb7f800b816ac101b870b977964e68600ad3a8001578c1d9d150a78dff1fb&"> </img>
+<div align="center">
+<img src="https://github.com/ChitandaXK/attachment/blob/main/echidna.jpg?raw=true"> </img>
+</div>
 
 <h3 align="center">A mysterious person that like to develop discord bots</h3>
 
