@@ -67,7 +67,7 @@ ___
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chitandaa&label=Profile%20views&color=0e75b6&style=flat" alt="chitandaa" /> </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ChitandaXK/ChitandaXK/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ChitandaXK/ChitandaXK/output/snake-dark.svg" alt="Snake animation" />
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChitandaXK&theme=github-compact&radius=16" height="auto" alt="by fatkhurhhn" /> -->
 </div>
 
